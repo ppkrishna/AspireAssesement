@@ -76,6 +76,7 @@ public void TestAssesment() throws InterruptedException
 						
 						
 						//driver.findElement(By.xpath("//button[@name='action_update_quantity_on_hand']")).click();
+						driver.close();
 						
 }
 }
